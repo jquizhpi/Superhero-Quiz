@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-image: url('https://preview.redd.it/0bb6dqsiab451.gif?s=b0c65596a54a30708da26669da6e79abf3be1680');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    overflow: scroll;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 7em;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+}
+
+.superman,
+.ironman,
+.batman,
+.deadpool,
+.blackcanary,
+.wonderwoman,
+.blackwidow,
+.captainmarvel {
+    display: none;
+    height: 500px;
+}
+
+.btman,
+.spman,
+.inman,
+.dpman,
+.blkcy,
+.wwrn,
+.blkw,
+.captm {
+    font-size: 2.5em;
+    text-align: center;
+    display: none;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.questionImages {
+    width: 700px;
+}
+
+button {
+    width: 700px;
+    height: 50px;
+    font-size: 17px;
+}
+
+input {
+    font-size: 20px;
+}
